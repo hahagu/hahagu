@@ -7,16 +7,16 @@
 ██████╔╝███████╗██║        ██║   ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗███████║
 ╚═════╝ ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
-DefyOS Version 1.0
+DefyOS Version 22.01
 Logged in as @hahagu
 
 =========================================
-System load:           Coffee_%
-Memory usage:          999_%
-Processes:             Memory_Overflow_
+System load:           ❤️_%
+Memory usage:          🔥_%
+Processes:             2 Running
 =========================================
 
-hahagu@defy# ./web.sh
+hahagu@defyworks# ./web.sh
 > List Services
 > Running Service - Web FullStack Developer - ID#001
 
@@ -27,7 +27,7 @@ hahagu@defy# ./web.sh
 > Running Service - Programmer - ID#002
 
 > Usage:
-	Applicable Languages
-	- C
-	- C#
+	Binaries with C
+	Windows applications and tools with C#
+	Scripting with PowerShell and Bash
 ```
