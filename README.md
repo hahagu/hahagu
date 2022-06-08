@@ -16,7 +16,7 @@ Memory usage:          🔥_%
 Processes:             2 Running
 =========================================
 
-hahagu@defyworks# ./web.sh
+hahagu@defyworks# ./run.sh
 > List Services
 > Running Service - Web FullStack Developer - ID#001
 
